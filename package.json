@@ -1,0 +1,15 @@
+{
+  "name": "linux-perf-docker-node-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "keywords": [
+    "linux",
+    "perf",
+    "docker",
+    "node"
+  ],
+  "author": "richie.mccoll@hotmail.co.uk",
+  "license": "ISC",
+  "description": "Usign linux perf on a Node.js Docker image"
+}
